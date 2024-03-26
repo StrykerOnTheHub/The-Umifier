@@ -23,10 +23,8 @@ This extension adds the indie vtuber
 
 -   This extension should be compatible with any Firefox / Chromium based browser.
 
--   This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and his **[Website][UI Website]**.
+-   This extension was inspired by **[Unnecessary Inventions][UI YouTube]**
 
 -   This extension is unofficial and not affiliated with YouTube.
-
-ORIGINAL BY THE BAMF LISTED BELOW
 
 [UI YouTube]: http://www.youtube.com/@UnnecessaryInventions
