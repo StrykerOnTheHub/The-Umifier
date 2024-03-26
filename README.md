@@ -1,7 +1,7 @@
 
 <div align = center >
 
-#  Umify
+#  Introducing...The Umi-fier!
 ![image_2024-03-21_111647651 (1)](https://github.com/StrykerOnTheHub/The-Umifier/assets/165089035/ab979936-8de9-4026-8e63-e2b2c8c6f435)
 
 <br>
