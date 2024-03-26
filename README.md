@@ -24,8 +24,12 @@ This extension adds the indie vtuber
 
 -   This extension should be compatible with any Firefox / Chromium based browser.
 
--   This extension was inspired by **[Unnecessary Inventions][UI YouTube]**
+-   This extension was inspired by **[Unnecessary Inventions][UI YouTube]** & **[Umi Miho][UI Umi]** who's owned by **[GxG][UI GxG]**
 
 -   This extension is unofficial and not affiliated with YouTube.
 
 [UI YouTube]: http://www.youtube.com/@UnnecessaryInventions
+
+[UI Umi]: https://twitter.com/UmiMihoGxG
+
+[UI GxG]: https://twitter.com/GxGManga
